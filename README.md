@@ -19,18 +19,10 @@ Welcome to my GitHub! I’m Jyoti, a life sciences graduate turning into a hands
 ---
 
 ## 🛠️ Tools & Languages:
-- `Python`, `Biopython`, `Pandas`, `Matplotlib`
-- `Google Colab`, `GitHub`, `Jupyter`
-- `FASTA`, `BLAST`, `KEGG`, `Entrez`, `SeqIO`
+- **Languages & Core Libraries**`Python`, `Biopython`, `Pandas`, `Matplotlib`
+- **Tools & Platforms**`Google Colab`, `GitHub`, `Jupyter`
+- **`FASTA`, `BLAST`, `KEGG`, `Entrez`, `SeqIO`
 <img width="180" height="120" alt="Image" src="https://github.com/user-attachments/assets/914dee3b-ed12-4766-9a5f-1432f61874b7" />
-  
-
-## 📁 My Projects
-| Project | Description | Skills |
-|--------|-------------|--------|
-| [GC Content Calculator](https://github.com/yourusername/GC-Content-Calculator) | Reads FASTA files, calculates GC% | Biopython, file handling |
-| [DNA Sequence Identifier (BLAST)](https://github.com/yourusername/BLAST-Identifier) | Matches unknown DNA to known organisms using BLAST API | Biopython, XML parsing |
-| Coming soon... | Soil microbiome analyzer, tribal plant genomics validator | RNA-seq, KEGG, NLP |
 
 ---
 
