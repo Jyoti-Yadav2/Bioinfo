@@ -5,6 +5,9 @@
 
 Welcome to my GitHub! I’m Jyoti, a life sciences graduate turning into a hands-on **bioinformatics developer** passionate about building tools for real-world health, agriculture, and genomic innovation — especially for **rural impact**.
 
+**Computational Biology & Genome Analysis | Pipeline Engineering**
+- Specialized in building reproducible R/Bioconductor workflows for high-dimensional genomic dataset querying, sequence statistics, and evolutionary alignment. Focused on programmatic data mining across database architectures.
+
 ---
 
 ## 🧬 Current Learning Journey:
